@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976480463816",
+    "firebase_url": "https://lux-meter-device-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lux-meter-device",
+    "storage_bucket": "lux-meter-device.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976480463816:android:d241e46dc0be6353252efd",
+        "android_client_info": {
+          "package_name": "com.example.luxmd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976480463816-6n0jk7hnb4sonlhe3bitv8rmbgch62se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-F_qwq6QVqNhpL64dlZCkrp6OBwHQTQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976480463816-6n0jk7hnb4sonlhe3bitv8rmbgch62se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
