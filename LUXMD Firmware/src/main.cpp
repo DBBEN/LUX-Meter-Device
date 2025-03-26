@@ -1,6 +1,8 @@
 #define LGFX_WT32_SC01
 #define LGFX_USE_V1
 
+#define LV_CONF_INCLUDE_SIMPLE
+
 //#include <Arduino.h>
 #include <lvgl.h>
 #include <LovyanGFX.hpp>
